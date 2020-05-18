@@ -78,3 +78,8 @@ aside {
     padding-left: 20px;
     float: right;
 }
+
+.section-img {
+    width: 250px;
+    margin-top: 15px;
+}

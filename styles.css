@@ -44,3 +44,12 @@ a {
     text-decoration: none;
     color: black;
 }
+
+section {
+    border: 1px solid black;
+    width: 70%;
+    height: 30%;
+    text-align: start;
+    margin: 10px;
+    padding-left: 20px;
+}
